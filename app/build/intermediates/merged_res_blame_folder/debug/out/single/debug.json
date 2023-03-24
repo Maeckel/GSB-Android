@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "fr.gsb.app-main-39:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "fr.gsb.app-main-39:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "fr.gsb.app-main-39:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "fr.gsb.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "fr.gsb.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/menu_bottom_nav_menu.xml.flat",
+        "source": "fr.gsb.app-main-39:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/layout_fragment_home.xml.flat",
+        "source": "fr.gsb.app-main-39:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/layout_fragment_dashboard.xml.flat",
+        "source": "fr.gsb.app-main-39:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/navigation_mobile_navigation.xml.flat",
+        "source": "fr.gsb.app-main-39:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "fr.gsb.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "fr.gsb.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "fr.gsb.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/layout_fragment_notifications.xml.flat",
+        "source": "fr.gsb.app-main-39:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "fr.gsb.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "fr.gsb.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
